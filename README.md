@@ -125,8 +125,12 @@ plt.show()
 
 # OUTPUT:
 
-<img width="719" height="564" alt="image" src="https://github.com/user-attachments/assets/facb2b3e-338f-409c-8458-540f499594d3" />
-<img width="706" height="547" alt="image" src="https://github.com/user-attachments/assets/958c9540-1013-4ccf-9b53-9f00893c397a" />
+
+<img width="567" height="435" alt="image" src="https://github.com/user-attachments/assets/0bf9b2d1-967b-43d8-8349-d24a80668679" />
+
+
+<img width="576" height="432" alt="image" src="https://github.com/user-attachments/assets/d79da357-405a-4805-bb8b-06343c8ad588" />
+
 
 
 
