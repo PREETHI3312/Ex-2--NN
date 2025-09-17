@@ -125,6 +125,10 @@ plt.show()
 
 # OUTPUT:
 
+<img width="719" height="564" alt="image" src="https://github.com/user-attachments/assets/facb2b3e-338f-409c-8458-540f499594d3" />
+<img width="706" height="547" alt="image" src="https://github.com/user-attachments/assets/958c9540-1013-4ccf-9b53-9f00893c397a" />
+
+
 
 
 
