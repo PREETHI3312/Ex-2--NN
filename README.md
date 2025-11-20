@@ -1,7 +1,8 @@
 <H3>Name : PREETHI A K</H3>
 <H3>Register no : 212223230156</H3>
 <H3>Experiment No. 2 </H3>
-## Implementation of Perceptron for Binary Classification
+
+# Implementation of Perceptron for Binary Classification
 # AIM:
 To implement a perceptron for classification using Python<BR>
 
